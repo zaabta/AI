@@ -4,4 +4,6 @@
 style="display: block;
   margin-left: auto;
   margin-right: auto;
+  margin: 10px auto 20px;
   width: 50%;">
+<style>
