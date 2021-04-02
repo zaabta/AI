@@ -6,4 +6,4 @@ style="display: block;
   margin-right: auto;
   margin: 10px auto 20px;
   width: 50%;">
-<style>
+
