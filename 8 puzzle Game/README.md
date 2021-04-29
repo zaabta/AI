@@ -1,6 +1,3 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf610
-{\fonttbl}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-}
+# 8 puzzle game simulation
+
+<img src="https://media1.tenor.com/images/2d53c6e68b4197587cf6158eaa00f12b/tenor.gif">
