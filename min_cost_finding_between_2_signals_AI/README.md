@@ -1,4 +1,4 @@
-# Between Two signals finding minimum cost  by Using simulated annealing
+# Moving one of the signals to find minimum cost  by Using simulated annealing AI
 
 
 ### 𝑐𝑜𝑠𝑡 𝑓𝑢𝑛𝑐𝑡𝑖𝑜𝑛 𝑚𝑖𝑛 = ∑|𝑑1𝑖−𝑑2𝑖|
